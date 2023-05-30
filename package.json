@@ -1,0 +1,16 @@
+{
+  "name": "asynchronism",
+  "version": "1.0.0",
+  "description": "promises, fetch and asyncronism in general",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^3.3.1",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LuisB",
+  "license": "ISC"
+}
